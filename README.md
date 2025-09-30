@@ -4,10 +4,16 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=joaogomesdev32&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduado em ADS na Estácio e estudando Engenharia Fullstack na Codecademy.
-- 💼 Trabalhando como desenvolvedor web frontend na Magnisoft.
-- 🌱 Aprendendo mais sobre Vue e Typescript.
+- 🚀 Desenvolvedor em transição para Fullstack, com foco em backend
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Estácio
+- 💼 Ex-desenvolvedor Frontend na Magnisoft (2024-2025)
+- 🌱 Atualmente aprofundando conhecimentos em:
+  - Node.js e Express
+  - APIs RESTful
+  - Bancos de dados SQL/NoSQL
+  - Arquitetura de Software
+- ⚡ Stack técnica: JavaScript/TypeScript, Vue.js, React, Node.js, MongoDB, Git
+- 🎯 Em busca de oportunidades fullstack/backend
 
 --- 
 
