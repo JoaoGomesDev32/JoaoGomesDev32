@@ -76,7 +76,7 @@
 
 <p align="center">
   <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
+    href="https://github-profile-trophy.vercel.app/?username=joaogomesdev32"
     title="repositório de troféus"
   >
     <img
@@ -94,7 +94,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/joaogomesdev32/count.svg"
+    src="https://komarev.com/ghpvc/?username=JoaoGomesDev32&color=brightgreen"
     alt="Número de visitantes no perfil"
   />
 </p>
