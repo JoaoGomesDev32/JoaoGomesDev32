@@ -86,6 +86,8 @@
   </a>
 </p>
 
+[![trophy](https://github-trophies.vercel.app/?username=joaogomesdev32&theme=onedark)](https://github.com/joaogomesdev32/github-trophies)
+
 ---
 
 <div align="center">
