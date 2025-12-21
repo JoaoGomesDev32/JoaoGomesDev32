@@ -74,18 +74,6 @@
 
 ### 🏆 GitHub Profile Trophy
 
-<p align="center">
-  <a
-    href="https://github-profile-trophy.vercel.app/?username=joaogomesdev32"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=joaogomesdev32&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
 [![trophy](https://github-trophies.vercel.app/?username=joaogomesdev32&theme=onedark)](https://github.com/joaogomesdev32/github-trophies)
 
 ---
