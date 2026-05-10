@@ -1,35 +1,36 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Olá, meu nome é João Silva!
+### Hi, I'm João Silva!
+#### Web Developer | Vue.js • TypeScript • JavaScript • C | Student at 42 Lisboa
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=joaogomesdev32&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-- 🚀 Desenvolvedor em transição para Fullstack, com foco em backend
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Estácio
-- 💼 Ex-desenvolvedor Frontend na Magnisoft (2024-2025)
-- 🌱 Atualmente aprofundando conhecimentos em:
-  - Node.js e Express
-  - APIs RESTful
-  - Bancos de dados SQL/NoSQL
-  - Arquitetura de Software
-- ⚡ Stack técnica: JavaScript/TypeScript, Vue.js, React, Node.js, MongoDB, Git
-- 🎯 Em busca de oportunidades fullstack/backend
+Frontend developer with professional experience building modern web applications, dashboards and responsive user interfaces using Vue.js, TypeScript and Vuetify.
+
+Previously worked as a Frontend Developer contributing to business software solutions and data-driven interfaces.
+
+Currently focused on the 42 School Common Core, improving software engineering, algorithms and low-level programming skills through intensive C projects.
+
+- 🌍 Based in Lisbon, Portugal
+- 🎓 Bachelor's Degree in Systems Analysis and Development
+- 🧠 42 School Common Core Student
+- 💻 Passionate about Development
+- 🚀 Currently looking for new opportunities
 
 --- 
 
-## Minhas Skills
+## Tech Stack
 
-**Aplicações e dados**
+**Applications and data**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![C Language](https://img.shields.io/badge/-C%20Language-333333?style=flat&logo=c&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utilities**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
@@ -38,7 +39,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
+**Development tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
