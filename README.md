@@ -49,6 +49,15 @@ Currently focused on the 42 School Common Core, improving software engineering, 
 
 ---
 
+📌 Current Focus
+* Frontend Engineering
+* Software Architecture
+* Algorithms & Problem Solving
+* Low-Level Programming with C
+* Fullstack Development
+
+---
+
 ## 📞 Contato
 
 <p align="left">
