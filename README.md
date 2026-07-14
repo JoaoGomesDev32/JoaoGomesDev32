@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Hi, I'm João Silva!
-#### Web Developer | Vue.js • TypeScript • JavaScript • C | Student at 42 Lisboa
+#### Web Developer | Vue.js • TypeScript • Python • C | Student at 42 Lisboa
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=joaogomesdev32&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
